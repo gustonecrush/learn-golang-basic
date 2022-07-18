@@ -19,4 +19,12 @@ func main() {
 
 	friendName2 := "Aang"
 	fmt.Println(friendName2)
+
+	var (
+		firstName = "Farhan"
+		lastName = "Augustiansyah"
+	)
+
+	fmt.Println(firstName, lastName)
+
 }
